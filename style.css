@@ -1,0 +1,29 @@
+.intro{
+    text-align: center;
+}
+span {
+    font-size: x-large;
+    text-align: center;
+}
+.block{
+    display: grid;
+    justify-content: center;
+    gap:15px;
+}
+.span1, .span2, .span3, .span4{
+    border: 3px solid;
+    padding: 10px;
+    display: grid;
+    border-radius: 40px;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+}
+
+.button{
+    font-size: 24px;
+    padding: 20px 40px; 
+    border-radius: 40px;
+}
